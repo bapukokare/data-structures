@@ -1,4 +1,4 @@
-# data-structures
+# Data Structures
 Popular Data Structures implemented in C++, C and Python Language.
 
 # References
