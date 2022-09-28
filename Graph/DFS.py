@@ -1,5 +1,19 @@
-#Problem Statement: https://www.geeksforgeeks.org/queue-in-python/
-#Reference: https://www.youtube.com/watch?v=UeE67iCK2lQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=5&ab_channel=takeUforward
+"""
+Tags:
+    -DFS
+    -Graph
+    
+Time: O(N+E)
+Space: O(N+E + N + N) (vis, ans) + N
+    
+Apprach:
+    Option1: Similar to 
+        -DFS in trees
+        
+Problem:
+https://www.geeksforgeeks.org/queue-in-python/
+Reference: https://www.youtube.com/watch?v=UeE67iCK2lQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=5&ab_channel=takeUforward
+"""
 
 class Solution:
     def dfsOfGraph(self, V, adj):
