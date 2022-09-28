@@ -15,8 +15,8 @@ class Solution:
                         q.append(it)
                         vis[it] = 1
         ans = []
-        vis = [0] * V #for graph having more than 1 component
-        for i in range(0, V): #1
+        vis = [0] * V
+        for i in range(0, V):
             if vis[i]!=1:
                 bfs(i)
         return ans
