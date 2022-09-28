@@ -2,22 +2,19 @@
 #Reference: https://www.youtube.com/watch?v=UeE67iCK2lQ&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=5&ab_channel=takeUforward
 
 class Solution:
-    def dfs(self, node):
-        self.ans.append(node)
-        self.vis[node] = True
-        for i in self.adj[node]:
-            if not self.vis[i]:
-                self.dfs(i)
-        
     def dfsOfGraph(self, V, adj):
-        self.adj = adj
-        self.ans = []
-        self.vis = [False] * V
-        
+        def dfs(node):
+            ans.append(node)
+            vis[node] = True
+            for i in adj[node]:
+                if not vis[i]:
+                    dfs(i)        
+        ans = []
+        vis = [False] * V
         for i in range(0, V):
-            if not self.vis[i]:
-                self.dfs(i)
-        return self.ans
+            if not vis[i]:
+                dfs(i)
+        return ans
 
 
 # Driver Code Starts
