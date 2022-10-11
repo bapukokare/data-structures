@@ -7,5 +7,5 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 ## Priority Queue [:blue_book:]()
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
-||[]()|[:question:]()|[:blue_book:]()|
+||[Priority Queue](https://github.com/kuldeepbishnoi/data-structures/blob/main/Priority%20Queue/Priority%20Queue.py)|[:question:]()|[:blue_book:]()|
 
