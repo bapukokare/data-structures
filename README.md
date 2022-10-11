@@ -1,14 +1,11 @@
-# Data Structures
-Popular Data Structures implemented in C++, C and Python Language.
+## data-structures
+This repo consists of data-structures codes, I am still working on this, soon it will be updated fully. This repo I made for the purpose of revision and reuse in other programs.
+If you want to explore more programes of Data Structure you can visit this [REPO](https://github.com/kuldeepbishnoi/data-structures)
 
-# References
-## Array
-## Linked List
-## Queue
-## Stack
-## Binary Tree
-## Binary Search Tree
-https://www.youtube.com/watch?v=9TJYWh0adfk&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=46&ab_channel=takeUforward
-## Graphs
-## Segement Tree
+<h4 align="center">Show some &nbsp;❤️&nbsp; by starring this repository! It will push me to give more percentage of efforts</h4>
+
+## Priority Queue [:blue_book:]()
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
 
